@@ -15,4 +15,4 @@ hello_t(["Tim", "Tom", "Jim"]) do |name|
   end
 end
 
-hello_t()
+hello_t() {}
