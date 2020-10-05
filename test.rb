@@ -3,7 +3,7 @@ candy = [2,4,6,8]
 
 candy_times_three = candy.map { |num| num * 3 }
 
-candy_times_three()
+puts candy_times_three
 
 # def introduction(name)
 #   yield(name)
@@ -12,5 +12,5 @@ candy_times_three()
 #   yield(name)
 #   yield("John")
 # end
-#
+# 
 # introduction("Ernest") {|n| puts "My name is #{n}!"}
