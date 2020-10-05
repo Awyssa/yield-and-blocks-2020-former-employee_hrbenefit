@@ -12,5 +12,5 @@ puts candy_times_three
 #   yield(name)
 #   yield("John")
 # end
-# 
+#
 # introduction("Ernest") {|n| puts "My name is #{n}!"}
